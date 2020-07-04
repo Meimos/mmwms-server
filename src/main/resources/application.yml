@@ -8,8 +8,8 @@ meimos:
   copyrightYear: 2020
   # 实例演示开关
   demoEnabled: true
-  # 文件路径 示例（ Windows配置D:/ruoyi/uploadPath，Linux配置 /home/ruoyi/uploadPath）
-  profile: D:/mmwms/uploadPath
+  # 文件路径 示例（ Windows配置D:/mmwms/uploadPath，Linux配置 /home/mmwms/uploadPath）
+  profile: C:/mmwms/uploadPath
   # 获取ip地址开关
   addressEnabled: false
 
